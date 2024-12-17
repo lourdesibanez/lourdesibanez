@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Laravel**
 
-- 🤝 I’m looking for help with **my first job in the IT world of work**
+- 🤝 I’m looking for new challenges **on the IT world of work**
 
 - 💬 Ask me about **a freelance project**
 
