@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lourdes Ibañez</h1>
-<h3 align="center">A passionate backend developer from Argentina who is venturing into the field of testing.</h3>
+<h3 align="center">A passionate backend developer from Argentina.</h3>
 
 - 🔭 I’m currently studying in **Universidad Nacional de La Pampa**
 
